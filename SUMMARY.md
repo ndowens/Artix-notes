@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
-
+* [Sed](sed.md)
+* [Pacman](pacman.md)
